@@ -1,0 +1,7 @@
+To create permanent aliases:
+
+1. Use editor which you prefer: nano ~/.bashrc
+2. Write your alias: alias <alias name>='<your path to the script>'
+
+Go to the https://www.tecmint.com/create-alias-in-linux/
+for more information.
